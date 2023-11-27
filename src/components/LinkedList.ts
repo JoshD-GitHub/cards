@@ -1,5 +1,5 @@
-import { Card } from './Card';
 import Random from './Random';
+import { Card } from './Card';
 
 class CardNode {
   card: Card;
