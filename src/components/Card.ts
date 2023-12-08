@@ -31,7 +31,7 @@ class Card {
   }
 
   displayCard() {
-    console.log(`${this.rank} of ${this.suit}`);
+    return(`${this.rank} of ${this.suit}`);
   }
 }
 
